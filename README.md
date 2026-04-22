@@ -53,7 +53,7 @@ Understanding how attackers weaponize seemingly innocent shortcut files is a cri
 ### Installation
 
 ```bash
-https://github.com/GhostCord0
+git clone https://github.com/GhostCord0/TigerForge.git
 cd TigerForge
 ```
 
